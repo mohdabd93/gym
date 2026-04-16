@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohda\\Desktop\\GitClone\\gym\\Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85C56DBC-6BE1-4AE7-4C3B-BA233C20DCE3}|Application.csproj|c:\\users\\mohda\\desktop\\gitclone\\gym\\application\\dtos\\entitiesdtos\\exerciseresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C56DBC-6BE1-4AE7-4C3B-BA233C20DCE3}|Application.csproj|solutionrelative:dtos\\entitiesdtos\\exerciseresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C56DBC-6BE1-4AE7-4C3B-BA233C20DCE3}|Application.csproj|c:\\users\\mohda\\desktop\\gitclone\\gym\\application\\dtos\\entitiesdtos\\addexerciserequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C56DBC-6BE1-4AE7-4C3B-BA233C20DCE3}|Application.csproj|solutionrelative:dtos\\entitiesdtos\\addexerciserequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C56DBC-6BE1-4AE7-4C3B-BA233C20DCE3}|Application.csproj|c:\\users\\mohda\\desktop\\gitclone\\gym\\application\\dtos\\entitiesdtos\\finishworkoutrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C56DBC-6BE1-4AE7-4C3B-BA233C20DCE3}|Application.csproj|solutionrelative:dtos\\entitiesdtos\\finishworkoutrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C56DBC-6BE1-4AE7-4C3B-BA233C20DCE3}|Application.csproj|c:\\users\\mohda\\desktop\\gitclone\\gym\\application\\dtos\\entitiesdtos\\startworkoutrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C56DBC-6BE1-4AE7-4C3B-BA233C20DCE3}|Application.csproj|solutionrelative:dtos\\entitiesdtos\\startworkoutrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C56DBC-6BE1-4AE7-4C3B-BA233C20DCE3}|Application.csproj|c:\\users\\mohda\\desktop\\gitclone\\gym\\application\\dtos\\entitiesdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C56DBC-6BE1-4AE7-4C3B-BA233C20DCE3}|Application.csproj|solutionrelative:dtos\\entitiesdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExerciseResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohda\\Desktop\\GitClone\\gym\\Application\\DTOs\\EntitiesDtos\\ExerciseResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\EntitiesDtos\\ExerciseResponseDto.cs",
+              "ToolTip": "C:\\Users\\mohda\\Desktop\\GitClone\\gym\\Application\\DTOs\\EntitiesDtos\\ExerciseResponseDto.cs",
+              "RelativeToolTip": "DTOs\\EntitiesDtos\\ExerciseResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T07:36:37.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddExerciseRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohda\\Desktop\\GitClone\\gym\\Application\\DTOs\\EntitiesDtos\\AddExerciseRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\EntitiesDtos\\AddExerciseRequestDto.cs",
+              "ToolTip": "C:\\Users\\mohda\\Desktop\\GitClone\\gym\\Application\\DTOs\\EntitiesDtos\\AddExerciseRequestDto.cs",
+              "RelativeToolTip": "DTOs\\EntitiesDtos\\AddExerciseRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T07:33:04.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FinishWorkoutRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohda\\Desktop\\GitClone\\gym\\Application\\DTOs\\EntitiesDtos\\FinishWorkoutRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\EntitiesDtos\\FinishWorkoutRequestDto.cs",
+              "ToolTip": "C:\\Users\\mohda\\Desktop\\GitClone\\gym\\Application\\DTOs\\EntitiesDtos\\FinishWorkoutRequestDto.cs",
+              "RelativeToolTip": "DTOs\\EntitiesDtos\\FinishWorkoutRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T07:32:43.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartWorkoutRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohda\\Desktop\\GitClone\\gym\\Application\\DTOs\\EntitiesDtos\\StartWorkoutRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\EntitiesDtos\\StartWorkoutRequestDto.cs",
+              "ToolTip": "C:\\Users\\mohda\\Desktop\\GitClone\\gym\\Application\\DTOs\\EntitiesDtos\\StartWorkoutRequestDto.cs",
+              "RelativeToolTip": "DTOs\\EntitiesDtos\\StartWorkoutRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T07:32:29.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mohda\\Desktop\\GitClone\\gym\\Application\\DTOs\\EntitiesDtos\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\EntitiesDtos\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\mohda\\Desktop\\GitClone\\gym\\Application\\DTOs\\EntitiesDtos\\UserDTO.cs",
+              "RelativeToolTip": "DTOs\\EntitiesDtos\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T07:14:34.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
