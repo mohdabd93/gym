@@ -13,6 +13,7 @@ namespace Domain.Entities
     {
         public Guid Id { get; set; }
         public string Name { get; set; }
+        public string Password { get; set; } 
         public string Email { get; set; }
         public Gender Gender { get; set; }
         public double Weight { get; set; }
